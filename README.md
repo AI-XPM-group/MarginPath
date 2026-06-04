@@ -65,7 +65,7 @@
         <br>
 </div>
 <br>
-🔥🔥[MarginPath Paper](https://doi.org/10.1002/advs.75709) Published in Advanced Science.  <br>
+🔥🔥<a href="https://doi.org/10.1002/advs.75709">MarginPath Paper</a> Published in Advanced Science.  <br>
 
 # Abstract
 
